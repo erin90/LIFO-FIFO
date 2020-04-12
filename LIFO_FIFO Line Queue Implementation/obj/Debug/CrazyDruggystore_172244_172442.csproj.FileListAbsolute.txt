@@ -1,0 +1,33 @@
+C:\Users\HP\source\repos\CrazyDruggystore_172244_172442\CrazyDruggystore_172244_172442\bin\Debug\CrazyDruggystore_172244_172442.exe.config
+C:\Users\HP\source\repos\CrazyDruggystore_172244_172442\CrazyDruggystore_172244_172442\bin\Debug\CrazyDruggystore_172244_172442.exe
+C:\Users\HP\source\repos\CrazyDruggystore_172244_172442\CrazyDruggystore_172244_172442\bin\Debug\CrazyDruggystore_172244_172442.pdb
+C:\Users\HP\source\repos\CrazyDruggystore_172244_172442\CrazyDruggystore_172244_172442\obj\Debug\CrazyDruggystore_172244_172442.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\CrazyDruggystore_172244_172442\CrazyDruggystore_172244_172442\obj\Debug\CrazyDruggystore_172244_172442.Form1.resources
+C:\Users\HP\source\repos\CrazyDruggystore_172244_172442\CrazyDruggystore_172244_172442\obj\Debug\CrazyDruggystore_172244_172442.Form2.resources
+C:\Users\HP\source\repos\CrazyDruggystore_172244_172442\CrazyDruggystore_172244_172442\obj\Debug\CrazyDruggystore_172244_172442.Properties.Resources.resources
+C:\Users\HP\source\repos\CrazyDruggystore_172244_172442\CrazyDruggystore_172244_172442\obj\Debug\CrazyDruggystore_172244_172442.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\CrazyDruggystore_172244_172442\CrazyDruggystore_172244_172442\obj\Debug\CrazyDruggystore_172244_172442.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CrazyDruggystore_172244_172442\CrazyDruggystore_172244_172442\obj\Debug\CrazyDruggystore_172244_172442.exe
+C:\Users\HP\source\repos\CrazyDruggystore_172244_172442\CrazyDruggystore_172244_172442\obj\Debug\CrazyDruggystore_172244_172442.pdb
+C:\Users\HP\Desktop\Dump\ACC 15 LT3\CrazyDruggystore_172244_172442\bin\Debug\CrazyDruggystore_172244_172442.exe.config
+C:\Users\HP\Desktop\Dump\ACC 15 LT3\CrazyDruggystore_172244_172442\bin\Debug\CrazyDruggystore_172244_172442.exe
+C:\Users\HP\Desktop\Dump\ACC 15 LT3\CrazyDruggystore_172244_172442\bin\Debug\CrazyDruggystore_172244_172442.pdb
+C:\Users\HP\Desktop\Dump\ACC 15 LT3\CrazyDruggystore_172244_172442\obj\Debug\CrazyDruggystore_172244_172442.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Dump\ACC 15 LT3\CrazyDruggystore_172244_172442\obj\Debug\CrazyDruggystore_172244_172442.Form1.resources
+C:\Users\HP\Desktop\Dump\ACC 15 LT3\CrazyDruggystore_172244_172442\obj\Debug\CrazyDruggystore_172244_172442.Form2.resources
+C:\Users\HP\Desktop\Dump\ACC 15 LT3\CrazyDruggystore_172244_172442\obj\Debug\CrazyDruggystore_172244_172442.Properties.Resources.resources
+C:\Users\HP\Desktop\Dump\ACC 15 LT3\CrazyDruggystore_172244_172442\obj\Debug\CrazyDruggystore_172244_172442.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Dump\ACC 15 LT3\CrazyDruggystore_172244_172442\obj\Debug\CrazyDruggystore_172244_172442.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Dump\ACC 15 LT3\CrazyDruggystore_172244_172442\obj\Debug\CrazyDruggystore_172244_172442.exe
+C:\Users\HP\Desktop\Dump\ACC 15 LT3\CrazyDruggystore_172244_172442\obj\Debug\CrazyDruggystore_172244_172442.pdb
+C:\Users\HP\Desktop\Dump\Yabut_Erin_eServices\Portfolio\LIFO_FIFO Line Queue Implementation\bin\Debug\CrazyDruggystore_172244_172442.exe.config
+C:\Users\HP\Desktop\Dump\Yabut_Erin_eServices\Portfolio\LIFO_FIFO Line Queue Implementation\bin\Debug\CrazyDruggystore_172244_172442.exe
+C:\Users\HP\Desktop\Dump\Yabut_Erin_eServices\Portfolio\LIFO_FIFO Line Queue Implementation\bin\Debug\CrazyDruggystore_172244_172442.pdb
+C:\Users\HP\Desktop\Dump\Yabut_Erin_eServices\Portfolio\LIFO_FIFO Line Queue Implementation\obj\Debug\CrazyDruggystore_172244_172442.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Dump\Yabut_Erin_eServices\Portfolio\LIFO_FIFO Line Queue Implementation\obj\Debug\CrazyDruggystore_172244_172442.Form1.resources
+C:\Users\HP\Desktop\Dump\Yabut_Erin_eServices\Portfolio\LIFO_FIFO Line Queue Implementation\obj\Debug\CrazyDruggystore_172244_172442.Form2.resources
+C:\Users\HP\Desktop\Dump\Yabut_Erin_eServices\Portfolio\LIFO_FIFO Line Queue Implementation\obj\Debug\CrazyDruggystore_172244_172442.Properties.Resources.resources
+C:\Users\HP\Desktop\Dump\Yabut_Erin_eServices\Portfolio\LIFO_FIFO Line Queue Implementation\obj\Debug\CrazyDruggystore_172244_172442.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Dump\Yabut_Erin_eServices\Portfolio\LIFO_FIFO Line Queue Implementation\obj\Debug\CrazyDruggystore_172244_172442.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Dump\Yabut_Erin_eServices\Portfolio\LIFO_FIFO Line Queue Implementation\obj\Debug\CrazyDruggystore_172244_172442.exe
+C:\Users\HP\Desktop\Dump\Yabut_Erin_eServices\Portfolio\LIFO_FIFO Line Queue Implementation\obj\Debug\CrazyDruggystore_172244_172442.pdb
